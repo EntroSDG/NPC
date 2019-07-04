@@ -1,4 +1,4 @@
-# SummerSchool-projects-Template
+# NPC
 Using the "readme" code of this repository as the basis of your "readme" in your own repository
 
 # Table of contents
